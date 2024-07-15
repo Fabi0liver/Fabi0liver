@@ -1,5 +1,5 @@
 
- 👋 Hello! I'm Fábio, a student delving into the fascinating world of programming. 
+ 👋 Hello! **I'm Fábio**, a student delving into the fascinating world of programming. 
      Currently, I'm focused on learning programming logic and Python. 
  
  💞️ I am passionate about improving my skills and discovering new languages and technologies. 
