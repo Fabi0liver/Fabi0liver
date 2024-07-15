@@ -1,8 +1,8 @@
 
- #  👋 _**Hello! I'm Fábio**_
+ # 👋 _**Hello, World!!! I'm Fábio!**_
  
 
- 🧑‍💻 A student delving into the fascinating world of programming. 
+ 👨🏽‍💻 A student delving into the fascinating world of programming. 
       Currently, I'm focused on learning programming logic and Python. 
  
  💞️ I am passionate about improving my skills and discovering new languages and technologies. 
