@@ -1,10 +1,7 @@
  👋 Olá! Sou o Fábio, um estudante explorando o fascinante mundo da programação. 
      Atualmente, estou focado em aprender lógica de programação e Python.
- 
  💞️ Sou apaixonado por melhorar minhas habilidades e descobrir novas linguagens e tecnologias.
- 
  👀 Estou sempre buscando desafios que me ajudem a crescer e evoluir como desenvolvedor. 
- 
  🌱 No momento sou apenas um estudante, então não tenho muito a mostrar. Mas espero evoluir!
                     VAMOS CODAR JUNTOS!
 
