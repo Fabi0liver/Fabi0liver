@@ -1,18 +1,28 @@
 
- # 👋 _**Hello, World!!! I'm Fábio!**_
- 
-## 📚 Explorando Fundamentos em TI
+ # 👋 _**Hello, World!!! Eu sou o Fábio!**_
 
-Bem-vindo(a) ao meu repositório no GitHub! Sou um estudante de Tecnologia da Informação, atualmente focado em construir uma base sólida em conceitos fundamentais, como arquitetura e organização de computadores. Este repositório é o espaço onde pratico, aplico e registro meu progresso nessas áreas iniciais, essenciais para minha jornada em TI.
+## 📚 Em busca dos fundamentos da Computação
+
+Seja muito bem-vindo(a) ao meu espaço no GitHub! Sou estudante e entusiasta da Ciência da Computação, atualmente focado em construir uma base sólida nos pilares que sustentam a tecnologia. Aqui você encontrará meus estudos, anotações, experimentos e projetos relacionados ao funcionamento interno dos computadores: desde os circuitos até os sistemas operacionais.
 
 ## 🚀 Sobre Mim
 
-Meu foco atual está na compreensão da base da tecnologia: entender como computadores são organizados e arquitetados e como os sistemas funcionam internamente. Este conhecimento fundamental é um pilar essencial para qualquer profissional de TI, e minha meta é dominar esses princípios para, futuramente, aprofundar-me em temas mais complexos.
+Tenho me dedicado a entender como os computadores realmente funcionam por dentro: como são organizados, arquitetados e como cada componente se conecta para formar algo tão poderoso. Acredito que dominar esses fundamentos é o primeiro grande passo para me tornar um profissional de TI completo, e é exatamente essa jornada que compartilho por aqui.
 
-## 🌱 Em Desenvolvimento
+## 🌱 O que estou explorando
 
-Ao explorar tópicos como arquitetura de sistemas, organização de dados e princípios de hardware e software, estou sempre atualizando este repositório com o que aprendo. Cada código, projeto ou anotação aqui reflete meu progresso e a evolução do meu conhecimento.
+Neste momento, estou mergulhando em temas como:
 
+- Arquitetura e Organização de Computadores 🧠  
+- Sistemas Numéricos e Representação da Informação 🔢  
+- Lógica Digital e Circuitos Combinacionais 🔌  
+- Pensamento Computacional e Modelagem Algorítmica 💡  
+
+Cada commit representa um pedaço do meu aprendizado em construção. Se quiser acompanhar essa jornada (ou até trocar ideias!), fique à vontade para explorar os repositórios, deixar sugestões ou simplesmente dizer um oi. 😊
+
+---
+📬 **Vamos aprender juntos?**  
+Sinta-se à vontade para me chamar ou contribuir com ideias!
 
  
 
